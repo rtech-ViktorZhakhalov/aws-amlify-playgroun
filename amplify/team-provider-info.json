@@ -1,0 +1,27 @@
+{
+    "dev": {
+        "awscloudformation": {
+            "AuthRoleName": "awsamplifyplayground-dev-20191009122720-authRole",
+            "UnauthRoleArn": "arn:aws:iam::138097994451:role/awsamplifyplayground-dev-20191009122720-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::138097994451:role/awsamplifyplayground-dev-20191009122720-authRole",
+            "Region": "us-east-1",
+            "DeploymentBucketName": "awsamplifyplayground-dev-20191009122720-deployment",
+            "UnauthRoleName": "awsamplifyplayground-dev-20191009122720-unauthRole",
+            "StackName": "awsamplifyplayground-dev-20191009122720",
+            "StackId": "arn:aws:cloudformation:us-east-1:138097994451:stack/awsamplifyplayground-dev-20191009122720/ff0f3ce0-ea76-11e9-88b0-1211ae29fc7a"
+        },
+        "categories": {
+            "auth": {
+                "awsamplifyplayground179d00e6": {
+                    "hostedUIProviderCreds": "[]"
+                }
+            },
+            "function": {
+                "awsamplifyplayground179d00e6PostConfirmation": {
+                    "GROUP": "playground"
+                },
+                "awsamplifyplayground179d00e6PreTokenGeneration": {}
+            }
+        }
+    }
+}

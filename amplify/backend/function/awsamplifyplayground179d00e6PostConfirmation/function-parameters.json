@@ -1,0 +1,14 @@
+{
+    "trigger": true,
+    "modules": [
+        "add-to-group"
+    ],
+    "parentResource": "awsamplifyplayground179d00e6",
+    "functionName": "awsamplifyplayground179d00e6PostConfirmation",
+    "parentStack": "auth",
+    "triggerEnvs": "[]",
+    "triggerTemplate": "PostConfirmation.json.ejs",
+    "roleName": "awsamplifyplayground179d00e6PostConfirmation",
+    "skipEdit": true,
+    "resourceName": "awsamplifyplayground179d00e6PostConfirmation"
+}

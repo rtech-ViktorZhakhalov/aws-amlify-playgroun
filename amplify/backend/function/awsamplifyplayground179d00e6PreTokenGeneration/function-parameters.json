@@ -1,0 +1,14 @@
+{
+    "trigger": true,
+    "modules": [
+        "custom"
+    ],
+    "parentResource": "awsamplifyplayground179d00e6",
+    "functionName": "awsamplifyplayground179d00e6PreTokenGeneration",
+    "parentStack": "auth",
+    "triggerEnvs": "[]",
+    "triggerTemplate": "PreTokenGeneration.json.ejs",
+    "roleName": "awsamplifyplayground179d00e6PreTokenGeneration",
+    "skipEdit": true,
+    "resourceName": "awsamplifyplayground179d00e6PreTokenGeneration"
+}
